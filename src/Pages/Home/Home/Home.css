@@ -105,3 +105,17 @@ table {
     border-radius: 5px;
     padding: 8px;
 }
+
+/* footer */
+footer {
+    text-align: center;
+    margin-top: 100px;
+}
+
+footer a {
+    color: rgb(145, 98, 12);
+}
+
+footer a:hover {
+    color: rgb(202, 148, 47);
+}
